@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Video Games
 1. Dragon Quest V
 2. The Legend of Zelda: Breath of the Wild
+3. Monster Hunter RISE
