@@ -26,4 +26,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Monster Hunter RISE
 4. Super Hexagon
 5. Final Fantasy VII Remake
-6. Need for Speed
+6. Kirby's Dream Land Ultra super DX
+7. Need for Speed
