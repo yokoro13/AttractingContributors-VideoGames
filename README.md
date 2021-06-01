@@ -15,9 +15,12 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Attention
+Please add your favorite Emoji to the following list.
+Emoji :thinking: can be displayed by just writing `:thinking:`.
+You can check expressions of other emojis on cheat sheat below.
+https://github.com/ikatyang/emoji-cheat-sheet
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# List of Emoji
+1. :pleading_face:
 
-# List of Hobby
