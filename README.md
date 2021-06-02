@@ -25,3 +25,4 @@ https://github.com/ikatyang/emoji-cheat-sheet
 1. :pleading_face:
 2. :innocent:
 3. :coffin:
+4. :cherry_blossom:
