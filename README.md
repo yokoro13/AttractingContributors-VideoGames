@@ -35,6 +35,7 @@ One of my favorite vtubers, a Dragon coming from USDA (United States of Dragon A
 # Already know about vtubers? Which one is your favorite?
 
 * Kiryu Coco
+* Hosho Marine
 * 渋谷ハル 
 * 
 
