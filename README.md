@@ -28,3 +28,4 @@ https://github.com/ikatyang/emoji-cheat-sheet
 4. :sunglasses:
 5. :cherry_blossom:
 6. 😁
+7. :thinking:
