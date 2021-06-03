@@ -37,6 +37,6 @@ One of my favorite vtubers, a Dragon coming from USDA (United States of Dragon A
 * Kiryu Coco
 * Hosho Marine
 * 渋谷ハル 
+* Genki Minamoto
+* Gawr Gura
 * バーチャルおばあちゃん
-
-
