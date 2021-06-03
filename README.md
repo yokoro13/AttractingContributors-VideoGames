@@ -1,24 +1,41 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+# What are VTubers?
 
-# Rules
+<img 
+     alt="YouTube Profile Picture Coco Kiryu"
+     src="https://github.com/sergiodl-naist/AttractingContributors-VTubers/blob/main/images/hololive-coco.jpg"
+     width="200px" /><font size="+2">Do not let her cute and friendly picture deceive you, she can be vicious.</font>
 
-1. Please choose a hobby or some interest that you want to build your repository
-2. Make a README to announce this theme (i.e., my favourite video games or anime)
-3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
-4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
+Vtubers are streamers (usually on YouTube, hence "tubers") that choose to present themselves with a 2D or 3D avatar, rather than with her or his own real life appearance.
 
-# Requirements
-To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
-2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
-4. Merge 10 Pull Requests into your forked Project.
+The hardware can be as simple as just a webcamera. On these cases a software recognize their expressions and movements and translate them to an articulated model. There can be more complex motion capture rigs such as full rooms equiped with infrarred mocap technology and professional illumination and cameras.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+<img 
+     alt="SIGGRAPH Asia 2018, Reality: Be yourself you want to be"
+     src="https://sa2018.conference-program.com/wp-content/linklings_snippets/representative_images/Efv5Sefxuq6SMeaQ.jpg"
+     width="400px" />
+A setup for a 3D avatar "REALITY: Be yourself you want to be" from SIGGRAPH Asia 2018
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+## Kiryu Coco?
 
-# List of Apps
-- Twitter
+<img 
+     alt="Kiryu Coco 3D Debut, YouTube, 2020"
+     src="https://github.com/sergiodl-naist/AttractingContributors-VTubers/blob/main/images/marineandcoco-3ddebut.png"
+     width="250px" />
+
+One of my favorite vtubers, a Dragon coming from USDA (United States of Dragon America) part of the talent agency "Hololive". Quick with her words, badmouthed but pretty funny and understanding. Every Sunday 12:00 (JST) presents a different colleague to the public and review Memes and funny pictures from reddit.
+
+# Ask Anything about vtubers!
+
+1. a
+
+2. b
+
+3. c
+
+# Already know about vtubers? Which one is your favorite?
+
+* Kiryu Coco
+* 渋谷ハル 
+* 
+
+
