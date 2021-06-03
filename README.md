@@ -27,3 +27,4 @@ https://github.com/ikatyang/emoji-cheat-sheet
 3. :coffin:
 4. :sunglasses:
 5. :cherry_blossom:
+6. 🤔
