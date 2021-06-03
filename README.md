@@ -29,3 +29,4 @@ https://github.com/ikatyang/emoji-cheat-sheet
 5. :cherry_blossom:
 6. 😁
 7. :thinking:
+8. :triumph:
