@@ -29,5 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. Kirby's Dream Land Ultra super DX
 7. Need for Speed
 8. RE VIII
-9. Pokemon Diamond
-10. 
+9. Touhou 6: Embodiment of Scarlet Devil
+10. Pokemon Diamond
