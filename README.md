@@ -30,4 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Need for Speed
 8. RE VIII
 9. Touhou 6: Embodiment of Scarlet Devil
-10. 
+10. Pokemon Diamond
