@@ -22,6 +22,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of comic
 - NARUTO
+- BOKUNOHIROAKADEMIA
+- 
+- 
 - World Embtyo
 - 
 - Himesama "Goumon" no Jikan desu
