@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - NARUTO
 - BOKUNOHIROAKADEMIA
 - D.Gray-Man
-- 
+- Haikyu!!
 - World Embtyo
 - Made in Abyss
 - Himesama "Goumon" no Jikan desu
