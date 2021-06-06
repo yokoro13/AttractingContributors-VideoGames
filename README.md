@@ -24,6 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - NARUTO
 - BOKUNOHIROAKADEMIA
 - D.Gray-Man
+- Haikyu!!
 - Gabriel DropOut
 - World Embtyo
 - Made in Abyss
