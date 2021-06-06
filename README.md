@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of comic
 - NARUTO
 - World Embtyo
-- 
+- Made in Abyss
 - Himesama "Goumon" no Jikan desu
 - 
 - 
