@@ -30,9 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Made in Abyss
 - Himesama "Goumon" no Jikan desu
 - One Punch man
-- 
-- 
-- 
-- 
-- 
-- 
+- Hagane no Renkinjutushi
