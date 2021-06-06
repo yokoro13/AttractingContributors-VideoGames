@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of comic
 - NARUTO
 - BOKUNOHIROAKADEMIA
-- 
+- D.Gray-Man
 - 
 - World Embtyo
 - Made in Abyss
