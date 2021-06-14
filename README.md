@@ -30,3 +30,5 @@ I want contributors to help me list some favorite F1 drivers!!
 4. kamikaze ukyo
 5. Felnando Alonso
 6. Charles Leclerc
+7. Pierre Gasly
+
