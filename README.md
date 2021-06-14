@@ -30,4 +30,7 @@ Goal - I want contributors to help me list some video games.
 9. Getting Over It with Bennett Foddy
 10. Dragon Quest V
 11. VALORANT
-12. Portal
+12. Atsumare Doubutsu No Mori
+13. Smash 　Brothers
+14. Apex Legend
+15. Portal
